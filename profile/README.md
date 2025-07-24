@@ -1,5 +1,26 @@
-## Hi there 👋
+# RICHeS is the UK’s Research Infrastructure for Conservation and Heritage Science
 
+<strong>https://www.riches.ukri.org/</strong>
+
+<table>
+  <tr>
+    <td rowspan="2" width="50%"><strong>The RICHeS programme</strong> will unlock access to heritage science facilities by creating a distributed infrastructure of heritage science collections and equipment.
+
+We will fund the development of a heritage science data service to enable researchers and other users to find and access facilities, reference collections and research data relating to heritage science research.
+
+We will also create a dedicated RICHeS headquarters to encourage cooperation, networking and skills sharing.</td>
+    <td width="25%">£80
+million commitment</td>
+    <td width="25%">31
+funded projects</td>
+  </tr>
+  <tr>
+    <td>1
+Heritage Science Data Service</td>
+    <td>144
+project partners</td>
+  </tr>
+</table>
 <!--
 
 **Here are some ideas to get you started:**
